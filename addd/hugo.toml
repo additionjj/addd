@@ -31,3 +31,7 @@ title = 'Jiajia Wang'
     name = "Contact"
     url = "/contact/"
     weight = 4
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
