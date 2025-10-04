@@ -1,6 +1,6 @@
 +++
 date = '2025-10-04T00:10:00-07:00'
-draft = false
+draft = true
 title = 'Jiajia Wang'
 +++
 I'm Jiajia Wang, a fourth-year Ph.D. student in Mathematics at the University of California, San Diego. My research focuses on optimization, tensor methods, and machine learning applications, with particular interest in algorithm design and large-scale data analysis. I have experience in developing neural network algorithms, solving bilevel and multi-task optimization problems, and mentoring undergraduate students in research projects.
